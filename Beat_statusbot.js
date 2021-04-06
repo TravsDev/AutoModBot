@@ -16,7 +16,7 @@ bot.on('ready', () => {
 
 });
 
-// Auto Mod System!
+// Edit mig;D
 
 bot.on('message', (message) => { // MessageEvent
   if(message.content === `status`) { // Her skal det ord, du vælger som botten skal slette
