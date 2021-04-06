@@ -24,8 +24,8 @@ bot.on('message', (message) => { // MessageEvent
     message.delete() // Vi beder botten om at slette, den bedsked medlemmer skriver.
     message.channel.send(new MessageEmbed() // Her laver du en ny message embed
       .setTitle('?status') // Sæt din title
-      .setDescription('Status:, Online 🟢')
-      .addField('Tak fordi du valdte hvors teamplate;D', 'Tryk [her For at joine hvors discord](https://docs.google.com/forms/d/e/1FAIpQLSewf59jc3gf9sDvvUblVtAtsMntR1vq97vq78tkiB97UTOobA/viewform)) og få hjælp'  )
+      .setDescription('Status:, Online 🟢') // Plaser noget til din beskrivelse
+      .addField('Tak fordi du valdte hvors teamplate;D') // Plaser noget her text her.
       .setColor('C60000') // Sæt Din Farve
       .setTimestamp()
      
