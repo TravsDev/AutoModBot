@@ -11,4 +11,4 @@ Join også discord for at få hvors AutoMod bot ind til din server!
 Discord: https://discord.gg/x6Ep953Xsv
 
 
-Hjemmeside: https://beatz-discord.000webhostapp.com/
+Hjemmeside: Kommer snart...
