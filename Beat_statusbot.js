@@ -1,7 +1,7 @@
 const Discord = require('discord.js'); // Importer discord.js indtil din bot 
 const { MessageEmbed } = require('discord.js') // Gør sådan vi, kan skrive MessageEmbed istedet for Discord.MessageEmbed
 const bot = new Discord.Client(); // Den her laver en ny discord bruger
-const Beatz_login = "DIN DISCORD BOT TOKEN HER!!"; // Dette er til din bots token
+const Token_Discord = "DIN DISCORD BOT TOKEN HER!!"; // Dette er til din bots token
 
 
 
@@ -33,4 +33,4 @@ bot.on('message', (message) => { // MessageEvent
   }
 })
 
-bot.login(Beatz_login); 
+bot.login(Token_Discord); 
