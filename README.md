@@ -12,3 +12,9 @@ Discord: https://discord.gg/x6Ep953Xsv
 
 
 Hjemmeside: Kommer snart...
+ 
+
+
+# For at starte bot
+
+</div>node .<div>
