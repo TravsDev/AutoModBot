@@ -32,4 +32,4 @@ bot.on('message', (message) => { // MessageEvent
   }
 })
 
-client.login(Token_Discord); 
+bot.login(Token_Discord); 
