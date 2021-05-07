@@ -15,6 +15,10 @@ Hjemmeside: Kommer snart...
  
 
 
-# For at starte bot
+# Kom godt i gang
 
-</div>node .<div>
+1. npm init -y 
+
+2. npm i discord.js
+
+3. node .
