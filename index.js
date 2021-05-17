@@ -1,4 +1,4 @@
-{ Client, MessageEmbed } = require('discord.js')
+const { Client, MessageEmbed } = require('discord.js')
 const bot = new Discord.Client(); // Den her laver en ny discord bruger
 const Token_Discord = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; // Dette er til din bots token
 
