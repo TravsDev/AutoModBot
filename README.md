@@ -8,7 +8,7 @@ Dette er til din discords bot status!
 
 Join også discord for at få hvors AutoMod bot ind til din server!
 
-Discord: https://discord.gg/x6Ep953Xsv
+Discord: https://discord.gg/W9HKvQWsTg
 
 
 Hjemmeside: Kommer snart...
