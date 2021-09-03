@@ -6,9 +6,9 @@ Dette er til din discords bot status!
 
 # ------------------------------------
 
-Join også discord for at få hvors AutoMod bot ind til din server!
+Join også discord for at få opdateringer!
 
-Discord: https://discord.gg/W9HKvQWsTg
+Discord: https://discord.gg/taxnpJHfVh
 
 
 Hjemmeside: Kommer snart...
